@@ -12,5 +12,7 @@ namespace EntityFrameworkTryOut.DataModels
         public int MaxClassSize { get; set; }
         public Language ClassLanguage { get; set; }
 
+        public string ClassRaiting { get; set; }
+
     }
 }
